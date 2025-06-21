@@ -10,10 +10,8 @@ I'm a Master's student in Computer Engineering at New York University, passionat
 ### 🔭 I’m currently working on:
 - Optimizing LLM training and inference pipelines.
 - Exploring advanced techniques in computer vision and natural language processing.
-- [Mention 1-2 personal learning goals or small current projects if any]
 
 ### 🌱 I’m currently learning:
-- [Mention a new framework, advanced MLOps tool, or theoretical concept]
 
 ---
 
