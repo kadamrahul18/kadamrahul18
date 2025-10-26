@@ -32,7 +32,7 @@ I'm a Master's Graduate in Computer Engineering at New York University, passiona
 <!-- Link to your pinned repositories here. Make these look good! -->
 1.  **[Optimized GPT-2 Training & Deployment](https://github.com/kadamrahul18/GPT2-Optimization)**: 44% faster training, 50% inference boost using DeepSpeed & FlashAttention.
 2.  **[Brain Tumor Segmentation (U-Net & GCP)](https://github.com/kadamrahul18/Classification-of-MRI-images-for-Brain-Tumor-Using-Convolutional-Neural-Networks)**: Automated MRI segmentation, deployed on GCP Vertex AI.
-3.  **[Scalable Stock Price Forecasting (PySpark & AWS)](https://github.com/kadamrahul18/your-stock-forecast-repo-name)**: 84% faster data prep, LSTM/ARIMA models on AWS Lambda.
+3.  **[Scalable Stock Price Forecasting (PySpark & AWS)](https://github.com/comet-ml/opik/pull/1006)**: 84% faster data prep, LSTM/ARIMA models on AWS Lambda.
 4.  **[LLM Output Quality Scoring (Open Source)](https://github.com/kadamrahul18/stock-price)**: BLEU scoring feature for Opik Platform with Docker & Kubernetes.
 
 ---
