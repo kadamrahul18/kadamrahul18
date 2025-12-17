@@ -13,7 +13,7 @@ I am an **ML Systems Engineer** focused on the infrastructure layer of AI. I bri
 | :--- | :--- | :--- |
 | **[Distributed LLM Training](https://github.com/kadamrahul18/GPT2-Optimization)** | PyTorch, DeepSpeed, AWS | Reduced GPT-2 training time by **72%** and memory usage by **50%** via ZeRO-2. |
 | **[MIPS Processor Simulator](https://github.com/CSA-Labs/mips-pipelined)** | C++, Linux, Make | Built a cycle-accurate 5-stage pipeline with hazard detection and forwarding logic. |
-| **[Opik MLOps Platform](https://github.com/comet-ml/opik)** | Python, Docker, Pytest | Shipped core LLM quality scoring features and unit tests for a major open-source tool. |
+| **[Opik LLM Eval Platform](https://github.com/comet-ml/opik)** | Python, Docker, Pytest | Shipped core LLM quality scoring features and unit tests for a major open-source tool. |
 | **[Medical Image Segmentation](https://github.com/kadamrahul18/Classification-of-MRI-images-for-Brain-Tumor-Using-Convolutional-Neural-Networks)** | TensorFlow, GCP, Docker | Deployed U-Net inference service on GCP Vertex AI for brain tumor segmentation. |
 
 ### 🛠️ Tech Stack
