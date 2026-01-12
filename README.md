@@ -14,7 +14,7 @@ MS Computer Engineering @ NYU. I work on ML systems: distributed training benchm
 | **[Distributed LLM Training Benchmarks](https://github.com/kadamrahul18/GPT2-Optimization)** | PyTorch, DeepSpeed, Slurm | Fixed-work multi-GPU benchmarking for GPT-2 (124M); tokens/sec scaling and run artifacts for reproducibility. |
 | **[MIPS Processor Simulator](https://github.com/CSA-Labs/mips-pipelined)** | C++, Linux, Make | Cycle-accurate 5-stage pipeline simulator with hazard detection + forwarding; verified via regression tests / traces. |
 | **[Opik LLM Eval Platform (Merged PR #1006)](https://github.com/comet-ml/opik/pull/1006)** | Python, Pytest, Docs | Added SentenceBLEU/CorpusBLEU metrics (NLTK-backed) + unit tests + docs; exported via `opik.evaluation.metrics`. |
-| **[Brain Tumor Segmentation Baseline (MONAI 3D U-Net)](REPLACE_WITH_YOUR_MONAI_REPO_LINK)** | PyTorch, MONAI, Linux, Slurm | Reproducible training/eval pipeline on MSD Task01 with guardrails (ROI/label checks, metric conventions) and saved artifacts for reruns/plots. |
+| **[Brain Tumor Segmentation Baseline (MONAI 3D U-Net)](https://github.com/kadamrahul18/Classification-of-MRI-images-for-Brain-Tumor-Using-Convolutional-Neural-Networks)** | PyTorch, MONAI, Linux, Slurm | Reproducible training/eval pipeline on MSD Task01 with guardrails (ROI/label checks, metric conventions) and saved artifacts for reruns/plots. |
 
 ### 🛠️ Tech Stack
 * **Systems:** Python, C++, Linux, Bash
