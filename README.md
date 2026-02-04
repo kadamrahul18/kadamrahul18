@@ -24,7 +24,7 @@ MS Computer Engineering (NYU). I build **ML systems**: reproducible benchmarks, 
 | **[Benchmark Results Service](https://github.com/kadamrahul18/benchmark-results-service)** | Containerized **FastAPI + worker** (Postgres/Redis) that ingests benchmark runs and exposes derived comparisons via `/compare` | `make docker-up && make demo` runs end-to-end locally. CI smoke tests included. |
 | **[Opik (Comet ML) – Merged PR #1006](https://github.com/comet-ml/opik/pull/1006)** | OSS contribution: BLEU metrics added with tests + docs | External review + merge trail in PR. |
 | **[MIPS Pipelined CPU Simulator](https://github.com/CSA-Labs/mips-pipelined)** | Cycle-accurate 5-stage pipeline (hazards + forwarding) in C++ | Verified via regression tests / traces. |
-| **[Brain Tumor Segmentation Baseline (MONAI 3D U-Net)]([https://github.com/kadamrahul18/](https://github.com/kadamrahul18/brain-tumor-seg)** | Reproducible training/eval baseline with guardrails (label/ROI checks, metric conventions) | Saved artifacts + Slurm-ready runs for reruns/plots. |
+| **[Brain Tumor Segmentation Baseline (MONAI 3D U-Net)](https://github.com/kadamrahul18/brain-tumor-seg)** | Reproducible training/eval baseline with guardrails (label/ROI checks, metric conventions) | Saved artifacts + Slurm-ready runs for reruns/plots. |
 
 ---
 
