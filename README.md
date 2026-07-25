@@ -2,7 +2,7 @@
 
 Early-career software engineer working across ML systems, backend infrastructure, performance engineering, and research software.
 
-I build the systems around ML work: benchmark ingestion, reproducible experiments, distributed-training instrumentation, evaluation metrics, numerical pipelines, and backend services that make results easier to trust.
+I build the systems around ML work: software engineering benchmarks, benchmark ingestion, reproducible experiments, distributed-training instrumentation, evaluation metrics, numerical pipelines, and backend services that make results easier to trust.
 
 NYU Tandon MS Computer Engineering, 2025. Brooklyn, NY. Open to early-career ML systems, backend, infrastructure, and research-software roles. Willing to relocate.
 
@@ -22,7 +22,7 @@ MRI reconstruction and sampling pipelines, MATLAB-to-Python/PyTorch reimplementa
 
 **Systems and performance engineering**
 
-C++ systems projects, Linux tooling, CI/regression harnesses, profiler-guided debugging, structured run artifacts.
+C++ systems projects, software repair benchmarks, black box verifiers, Linux tooling, CI/regression harnesses, profiler-guided debugging, structured run artifacts.
 
 ## Selected Work
 
@@ -74,6 +74,15 @@ Medical-imaging training/evaluation baseline with 3D segmentation, metric artifa
 
 ## Experience Snapshot
 
+**Snorkel AI**
+
+AI Expert Contributor, Software Engineering Benchmarks, contract.
+
+- Designed a C++ software repair benchmark around an image inference worker using libcurl, a Flask model registry, HMAC SHA256 authentication, JPEG feature extraction, and transactional SQLite processing.
+- Engineered seven defects across HTTP transport, exact byte authentication, model generation consistency, feature and class ordering, and JSONL output after database commits.
+- Authored a 122 case black box pytest verifier covering malformed inputs, model permutations, transaction rollback, resumability, idempotency, and tests preventing hardcoding.
+- Created a deterministic reference repair and reproducible Docker validation workflow.
+
 **NYU Langone Health, CAI2R Lab**
 
 Research Software Engineer Intern, fixed-term research project.
@@ -96,8 +105,8 @@ The contribution added evaluation metrics that fit the existing SDK design, went
 - Languages: Python, C++, Bash, SQL.
 - ML and numerical computing: PyTorch, DeepSpeed, AMP, NumPy, SciPy, MONAI, TensorBoard.
 - Distributed and performance tools: Slurm, NCCL, CUDA, NVTX, Nsight Systems, Linux.
-- Backend and data: FastAPI, REST APIs, PostgreSQL, Redis, Alembic, Docker Compose.
-- Testing and delivery: pytest, GitHub Actions, ruff, Makefiles, reproducible demos.
+- Backend and data: FastAPI, Flask, REST APIs, PostgreSQL, Redis, SQLite, Alembic, Docker Compose.
+- Testing and delivery: pytest, GitHub Actions, CMake, ruff, Makefiles, reproducible demos.
 
 ## Contact
 
